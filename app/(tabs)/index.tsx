@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Keyboard, StyleSheet, Platform, View, Text, KeyboardAvoidingView, TouchableOpacity, ScrollView } from 'react-native';
-import Task from '/Users/jihanchen/todoapp/components/tasks.js'; // change to relative path on local machine
+import Task from '/Users/jihanchen/todoapp/components/tasks.js'; // change to absolute path on local machine
 import { TextInput } from 'react-native';
 
 interface TaskItem {

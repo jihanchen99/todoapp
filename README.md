@@ -4,10 +4,10 @@ This is a simple To-Do app built with React Native. It allows users to manage th
 
 ## Features
 
-1. **Add Task:** Users can add new tasks to the "Today's Tasks" list.
-2. **Mark Task as Complete:** Users can mark tasks as complete by tapping on them. Completed tasks are moved to the "Completed Tasks" section.
-3. **Delete Task:** Users can delete tasks from either the "Today's Tasks" or "Completed Tasks" sections by pressing the delete button next to each task.
-4. **Task List:** Displays all tasks in a list view, showing both incomplete and completed tasks in separate sections.
+- **Add Task:** Users can add new tasks to the "Today's Tasks" list.
+- **Mark Task as Complete:** Users can mark tasks as complete by tapping on them. Completed tasks are moved to the "Completed Tasks" section.
+- **Delete Task:** Users can delete tasks from either the "Today's Tasks" or "Completed Tasks" sections by pressing the delete button next to each task.
+- **Task List:** Displays all tasks in a list view, showing both incomplete and completed tasks in separate sections.
 
 ## Setup and Installation
 
@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/todoapp.git
+   git clone https://github.com/jihanchen99/todoapp.git
    cd todoapp
    ```
 
@@ -32,3 +32,8 @@ Ensure you have the following installed on your system:
    ```bash
     npx expo start
    ```
+
+### Special Instructions
+
+1. When running the code on a local machine, change the path of import for Task to the absolute
+path to the file on your local machine. 
