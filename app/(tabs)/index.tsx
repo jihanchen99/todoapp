@@ -111,6 +111,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   tasksWrapper: {
+    marginTop: 60,
     padding: 20,
     marginBottom: 20,
     backgroundColor: '#FFFFFF',
