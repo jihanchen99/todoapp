@@ -21,19 +21,21 @@ Ensure you have the following installed on your system:
 
 ### Installation Steps
 
-1. **Clone the Repository:**
+1. **Download to local machine:**
    ```bash
-   git clone https://github.com/jihanchen99/todoapp.git
-   cd todoapp
+   cd ../todoapp
    ```
 
-2. **Start the app**
+2. **Start the app:**
 
    ```bash
     npx expo start
    ```
 
-### Special Instructions
+3. **Viewing on the web:**
+In terminal, click on the link in text that says "Web is waiting on http://localhost:XXXX."
+
+### Special Instructions: 
 
 1. When running the code on a local machine, change the path of import for Task to the absolute
 path to the file on your local machine. 
